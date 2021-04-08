@@ -6,6 +6,8 @@ main:
     url: "/_pages/lorem-ipsum.md"
   - title: "404"
     url: "/_pages/404.md"
+  - title: "A valid link"
+    url: https://diogocaetanogarcia.github.io/minimal-mistakes/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
