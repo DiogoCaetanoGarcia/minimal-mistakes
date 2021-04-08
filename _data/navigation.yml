@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: https://diogocaetanogarcia.github.io/minimal-mistakes/
+  # - title: "Home"
+  #   url: https://diogocaetanogarcia.github.io/minimal-mistakes/
   - title: "Point clouds"
     url: /point-clouds/
   - title: "Video compression"
