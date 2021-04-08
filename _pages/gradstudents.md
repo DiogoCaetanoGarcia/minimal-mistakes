@@ -11,21 +11,17 @@ permalink: /grad-students/
 <tbody>
 <tr>
 <td>
-<div class="staff-content">
 <h2 style="text-align: left;"><img class="wp-image-526 alignleft" src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/IMG_6565.jpg" alt="" width="156" height="200" /></h2>
-</div>
-<div class="staff-content">
 <h2 style="text-align: left;">Lucas Silva Lopes</h2>
 <h3 style="text-align: left;"><span style="color: #003366;">Department of Computer Science</span><br />
 <span style="color: #008000;">3D processing, Deep Learning</span></h3>
 <p style="text-align: left;"><a href="mailto:lucaslopes@ieee.org">lucaslopes(at)ieee.org</a></p>
-</div>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<style>table, th, td {border: 1px solid white;}</style>
+
 <h2 style="text-align: center;"><span style="color: #f4a024;">M.Sc. Candidates</span></h2>
 <p>&nbsp;</p>
 <table>
