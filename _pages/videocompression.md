@@ -5,8 +5,6 @@ layout: home
 permalink: /video-compression/
 ---
 
-# Video compression
-
 * Wedges
 * Light field image compression
 * Video encoding complexity reduction
