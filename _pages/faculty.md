@@ -117,7 +117,8 @@ permalink: /faculty/
 <div class="staff-content">
 <div class="staff-content">
 <h2 style="text-align: left;">Prof. Renan Utida Barbosa Ferreira</h2>
-<p style="text-align: left;"><em><img class="alignleft wp-image-560" src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/ruu.jpeg" alt="" width="149" height="224" />Assistant Professor</em></p>
+<p style="text-align: left;"><img class="alignleft wp-image-560" src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/ruu.jpeg" alt="" width="149" height="224" /></p>
+<p style="text-align: left;"><em>Assistant Professor</em></p>
 <h3 style="text-align: left;"><span style="color: #003366;">Department of Engineering at UnB/Gama<br />
 </span><span style="color: #008000;">Image and Video Processing, Biomedical Signal Processing, Point Cloud Compression</span></h3>
 <p style="text-align: left;"><a href="https://fga.unb.br/renan.ferreira" target="_blank" rel="noopener noreferrer">fga.unb.br/renan.ferreira</a><br />
@@ -132,7 +133,8 @@ permalink: /faculty/
 <div class="staff-content">
 <div class="staff-content">
 <h2 style="text-align: left;">Prof. Gustavo Sandri</h2>
-<p style="text-align: left;"><em><img class="alignleft wp-image-560" src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/gustavo_sandri-234x300.jpg" alt="" width="156" height="224" />Assistant Professor</em></p>
+<p style="text-align: left;"><img class="alignleft wp-image-560" src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/gustavo_sandri-234x300.jpg" alt="" width="156" height="224" /></p>
+<p style="text-align: left;"><em>Assistant Professor</em></p>
 <h3 style="text-align: left;"><span style="color: #003366;">Department of Engineering at IFB/Ceilândia<br />
 </span><span style="color: #008000;">Telepresence, compression of point clouds, 3D models</span></h3>
 <p style="text-align: left;"><a href="mailto:gustavo.sandri@ieee.org">gustavo.sandri(at)ieee.org</a></p>
