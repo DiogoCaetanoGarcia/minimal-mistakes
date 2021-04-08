@@ -3,16 +3,16 @@ main:
   - title: "Home"
     url: https://diogocaetanogarcia.github.io/minimal-mistakes/
   - title: "Lorem Ipsum"
-    url: /_pages/lorem-ipsum.md
+    url: "/_pages/lorem-ipsum.md"
   - title: "404"
-    url: /_pages/404.md
+    url: "/_pages/404.md"
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
