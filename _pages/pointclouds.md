@@ -5,8 +5,6 @@ layout: home
 permalink: /point-clouds/
 ---
 
-# Point clouds
-
 * Color compression
   * RAHT
   * Plenoptic color compression
