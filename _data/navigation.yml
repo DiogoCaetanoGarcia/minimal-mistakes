@@ -10,6 +10,8 @@ main:
     url: /miscellaneous/
   - title: "Software"
     url: /software/
+  - title: "Faculty"
+    url: /faculty/
   - title: "Alumni"
     url: /alumni/
   # - title: "Quick-Start Guide"
