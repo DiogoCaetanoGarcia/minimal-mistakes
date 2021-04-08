@@ -7,9 +7,9 @@ permalink: /software/
 
 ## RAHT
 
-Intra-frame point cloud codec for real-time 3D video.
+_Description:_ Intra-frame point cloud codec for real-time 3D video.
 
-_Description:_ Reference: R. L. de Queiroz and P. A. Chou, “[Compression of 3D Point Clouds Using a Region-Adaptive Hierarchical Transform](http://queiroz.divp.org/papers/ieee_tip_raht3d.pdf)“, in IEEE Transactions on Image Processing, vol. 25, no. 8, pp. 3947-3956, Aug. 2016.
+_Reference:_ R. L. de Queiroz and P. A. Chou, “[Compression of 3D Point Clouds Using a Region-Adaptive Hierarchical Transform](http://queiroz.divp.org/papers/ieee_tip_raht3d.pdf)“, in IEEE Transactions on Image Processing, vol. 25, no. 8, pp. 3947-3956, Aug. 2016.
 
 [Source code](https://github.com/digitalivp/RAHT)
 
@@ -31,7 +31,7 @@ _Reference:_ [ISO/IEC JTC1/SC29/WG1 input document M78030](https://github.com/di
 
 _Description:_ 3D Motion Vector Database for Dynamic Point Clouds.
 
-Reference: A. L. Souto, R. L. de Queiroz, and C. Dorea,
+_Reference:_ A. L. Souto, R. L. de Queiroz, and C. Dorea,
 “[A 3D Motion Vector Database for Dynamic Point Clouds](https://arxiv.org/abs/2008.08438)”, ArXiv e-prints, August 2020.
 
 [Database](https://queiroz.divp.org/data/motionVectorDatabase.zip)
