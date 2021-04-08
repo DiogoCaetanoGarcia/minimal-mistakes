@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: https://diogocaetanogarcia.github.io/minimal-mistakes/
-  - title: "Lorem Ipsum"
-    url: /lorem-ipsum/
-  - title: "404"
-    url: /404.html
+  - title: "Point clouds"
+    url: /point-clouds/
+  - title: "Video compression"
+    url: /video-compression/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
