@@ -40,7 +40,7 @@ permalink: /alumni/
 <td>2008</td>
 </tr>
 <tr>
-<td><span style="font-family: Verdana;"><span style="font-size: small;">Rafael Galvão de Oliveira</span></span></td>
+<td>Rafael Galvão de Oliveira</td>
 <td>M.Sc.</td>
 <td>Lapped Transforms and Wavelets in the Standard JPEG 2000 and H.264 Codecs</td>
 <td>2008</td>
