@@ -5,7 +5,7 @@ main:
   - title: "Lorem Ipsum"
     url: /lorem-ipsum/
   - title: "404"
-    url: "/_pages/404.md"
+    url: /404.html
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
