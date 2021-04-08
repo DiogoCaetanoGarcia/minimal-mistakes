@@ -1,5 +1,6 @@
 ---
 title: "Lorem Ipsum"
+author_profile: true
 permalink: /lorem-ipsum/
 ---
 
