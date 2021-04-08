@@ -7,7 +7,7 @@ permalink: /grad-students/
 
 <h2 style="text-align: center;"><span style="color: #f4a024;">Ph.D. Candidates</span></h2>
 <p>&nbsp;</p>
-<table style="height: 356px;" width="532">
+<table>
 <tbody>
 <tr>
 <td>
