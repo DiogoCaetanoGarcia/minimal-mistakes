@@ -8,6 +8,8 @@ main:
     url: /video-compression/
   - title: "Miscellaneous"
     url: /miscellaneous/
+  - title: "Software"
+    url: /software/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
