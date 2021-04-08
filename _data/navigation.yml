@@ -12,6 +12,8 @@ main:
     url: /software/
   - title: "Faculty"
     url: /faculty/
+  - title: "Graduate students"
+    url: /grad-students/
   - title: "Alumni"
     url: /alumni/
   # - title: "Quick-Start Guide"
