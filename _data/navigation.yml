@@ -10,14 +10,16 @@ main:
 #     url: /miscellaneous/
 #   - title: "Software"
 #     url: /software/
-  - title: "Faculty"
-    url: /faculty/
-  - title: "Graduate students"
-    url: /grad-students/
-  - title: "Undergraduate students"
-    url: /undergrad-students/
-  - title: "Alumni"
-    url: /alumni/
+  - title: "People"
+    children:
+    - title: "Faculty"
+      url: /faculty/
+    - title: "Graduate students"
+      url: /grad-students/
+    - title: "Undergraduate students"
+      url: /undergrad-students/
+    - title: "Alumni"
+      url: /alumni/
 projs:
   - title: "Point clouds"
     url: /point-clouds/
