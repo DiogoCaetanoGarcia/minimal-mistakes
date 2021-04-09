@@ -9,7 +9,7 @@ permalink: /miscellaneous-face-spoofing-detection/
 ---
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/face_spoofing.png"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/face_spoofing.png" height="500"><br>
   <i> Moiré patterns due to the overlapping of digital grids. (a) Portion of the Lena test image. (b) Photograph of (a) on a 13-inch Macbook Pro screen and shot by an iPhone 4 camera without any compression artifacts. (c)-(d) Details of (a)-(b), respectively. (e)-(f) Absolute values of the discrete Fourier transforms of (a)-(b).</i><br>
 </p>
 
@@ -19,7 +19,7 @@ Biometric systems based on face recognition have been shown unreliable under the
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/image_recapture.png"><br>
   <i>Image recapture: a screened image is captured by an imaging system
 from a distance.</i><br>
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/image_recapture.png"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/moire_database.png"><br>
   <i>Samples of the Moiré database.</i><br>
 </p>
 
