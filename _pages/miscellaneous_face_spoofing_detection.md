@@ -9,7 +9,7 @@ permalink: /miscellaneous-face-spoofing-detection/
 ---
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/face_spoofing.png" height="500"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/face_spoofing.png"><br>
   <i> Moiré patterns due to the overlapping of digital grids. (a) Portion of the Lena test image. (b) Photograph of (a) on a 13-inch Macbook Pro screen and shot by an iPhone 4 camera without any compression artifacts. (c)-(d) Details of (a)-(b), respectively. (e)-(f) Absolute values of the discrete Fourier transforms of (a)-(b).</i><br>
 </p>
 
