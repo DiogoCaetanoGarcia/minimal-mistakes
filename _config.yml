@@ -96,7 +96,7 @@ analytics:
 author:
   name             : #"Digital Image and Video Processing Group"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The Digital Image and Video Processing (DIVP) Group was formed in 2006 at the University of Brasilia. Its members include faculty members from the Departments of  Computer Science, Electrical Engineering and Electronic Engineering, as well as graduate and undergraduate students."
+  bio              : "DIVP Group"
   location         : "Brasília, Brazil"
   email            : "divp@divp.org"
   links:
