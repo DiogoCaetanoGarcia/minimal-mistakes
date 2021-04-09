@@ -20,6 +20,7 @@ main:
     url: /alumni/
 projs:
   - title: "Point clouds"
+    url: /point-clouds/
     children:
       - title: "Attribute compression"
         url: /point-clouds-attribute-compression/
@@ -32,6 +33,7 @@ projs:
       - title: "Super-resolution"
         url: /point-clouds-super-resolution/
   - title: "Video compression"
+    url: /video-compression/
     children:
       - title: "Wedges"
         url: /video-compression-wedges/
@@ -52,6 +54,7 @@ projs:
       - title: "Brazillian digital TV standard"
         url: /video-compression-brazillian-digital-tv-standard/
   - title: "Image and video processing, analysis and synthesis"
+    url: /miscellaneous/
     children:
       - title: "JPEG detection"
         url: /miscellaneous-jpeg-detection/
