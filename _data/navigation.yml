@@ -1,15 +1,15 @@
 # main links
 main:
-  # - title: "Home"
-  #   url: https://diogocaetanogarcia.github.io/minimal-mistakes/
-  - title: "Point clouds"
-    url: /point-clouds/
-  - title: "Video compression"
-    url: /video-compression/
-  - title: "Miscellaneous"
-    url: /miscellaneous/
-  - title: "Software"
-    url: /software/
+#   - title: "Home"
+#     url: https://diogocaetanogarcia.github.io/minimal-mistakes/
+#   - title: "Point clouds"
+#     url: /point-clouds/
+#   - title: "Video compression"
+#     url: /video-compression/
+#   - title: "Miscellaneous"
+#     url: /miscellaneous/
+#   - title: "Software"
+#     url: /software/
   - title: "Faculty"
     url: /faculty/
   - title: "Graduate students"
