@@ -4,6 +4,7 @@ author_profile: true
 layout: single
 sidebar:
   nav: "projs"
+classes: wide
 permalink: /point-clouds/
 ---
 

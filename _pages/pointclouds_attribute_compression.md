@@ -4,6 +4,7 @@ author_profile: true
 layout: single
 sidebar:
   nav: "projs"
+classes: wide
 permalink: /point-clouds-attribute-compression/
 ---
 
@@ -30,7 +31,7 @@ The Region-Adaptive Hierarchical Transform (RAHT) is a hierarchical sub-band tra
 
 ## Software
 
-* [Source code](https://github.com/digitalivp/RAHT)
+* [Source code (MATLAB on Linux/Windows)](https://github.com/digitalivp/RAHT)
 
 ## Patent
 

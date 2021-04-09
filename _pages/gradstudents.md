@@ -4,6 +4,7 @@ author_profile: true
 sidebar:
   nav: "projs"
 layout: single
+classes: wide
 permalink: /grad-students/
 ---
 
