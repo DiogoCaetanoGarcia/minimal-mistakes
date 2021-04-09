@@ -10,6 +10,14 @@ main:
 #     url: /miscellaneous/
 #   - title: "Software"
 #     url: /software/
+  - title: "Faculty"
+    url: /faculty/
+  - title: "Graduate students"
+    url: /grad-students/
+  - title: "Undergraduate students"
+    url: /undergrad-students/
+  - title: "Alumni"
+    url: /alumni/
 projs:
   - title: "Point clouds"
     url: /point-clouds/
@@ -56,16 +64,7 @@ projs:
         url: /miscellaneous-heart-rate-measurement/
       - title: "Sonar multibeam echo sounding"
         url: /miscellaneous-sonar-multibeam-echo-sounding/
-  - title: "People"
-    children:
-    - title: "Faculty"
-      url: /faculty/
-    - title: "Graduate students"
-      url: /grad-students/
-    - title: "Undergraduate students"
-      url: /undergrad-students/
-    - title: "Alumni"
-      url: /alumni/
+
 
 
   # - title: "Quick-Start Guide"
