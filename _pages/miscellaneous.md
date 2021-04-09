@@ -9,8 +9,8 @@ permalink: /miscellaneous/
 ---
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/shields_wedge.gif"><br>
-  <i>Geometric partition of blocks for motion estimation and compensation</i><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/peppers_jpeg.gif"><br>
+  <i>JPEG compression history estimation for color images</i><br>
   <!-- ![alt text](https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/peppers_jpeg.gif)
 
   _JPEG compression history estimation for color images_ -->
