@@ -3,7 +3,7 @@ title: "Video compression"
 author_profile: true
 sidebar:
   nav: "projs"
-layout: home
+layout: single
 permalink: /video-compression/
 ---
 

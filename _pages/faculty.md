@@ -3,7 +3,7 @@ title: "Faculty"
 author_profile: true
 sidebar:
   nav: "projs"
-layout: home
+layout: single
 permalink: /faculty/
 ---
 
