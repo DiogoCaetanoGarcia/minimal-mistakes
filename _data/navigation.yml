@@ -32,9 +32,11 @@ projs:
         url: /point-clouds-roi-saliency/
       - title: "Super-resolution"
         url: /point-clouds-super-resolution/
-  - title: "Video compression"
+  - title: "Image and video compression"
     url: /video-compression/
     children:
+      - title: "Learning-based image and video compression"
+        url: /video-compression-learning-based/
       - title: "Wedges"
         url: /video-compression-wedges/
       - title: "Light field image compression"

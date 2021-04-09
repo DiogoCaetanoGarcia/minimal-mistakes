@@ -1,5 +1,5 @@
 ---
-title: "Video compression"
+title: "Image and video compression"
 author_profile: true
 sidebar:
   nav: "projs"
