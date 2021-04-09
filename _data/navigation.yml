@@ -31,6 +31,39 @@ projs:
         url: /point-clouds-roi-saliency/
       - title: "Super-resolution"
         url: /point-clouds-super-resolution/
+  - title: "Video compression"
+    children:
+      - title: "Wedges"
+        url: /video-compression-wedges/
+      - title: "Light field image compression"
+        url: /video-compression-light-field-image-compression/
+      - title: "Video encoding complexity reduction"
+        url: /video-compression-video-encoding-complexity-reduction/
+      - title: "Wyner-Ziv coding"
+        url: /video-compression-wyner-ziv-coding/
+      - title: "Super-resolution"
+        url: /video-compression-super-resolution/
+      - title: "Scanned document compression"
+        url: /video-compression-scanned-document-compression/
+      - title: "Transcoding"
+        url: /video-compression-transcoding/
+      - title: "Motion estimation and intra prediction"
+        url: /video-compression-motion-estimation-and-intra-prediction/
+      - title: "Brazillian digital TV standard"
+        url: /video-compression-brazillian-digital-tv-standard/
+  - title: "Image and video processing, analysis and synthesis"
+    children:
+      - title: "JPEG detection"
+        url: /miscellaneous-jpeg-detection/
+      - title: "Face spoofing detection"
+        url: /miscellaneous-face-spoofing-detection/
+      - title: "Heart-rate measurement"
+        url: /miscellaneous-heart-rate-measurement/
+      - title: "Sonar multibeam echo sounding"
+        url: /miscellaneous-sonar-multibeam-echo-sounding/
+
+
+
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
