@@ -18,6 +18,19 @@ main:
     url: /undergrad-students/
   - title: "Alumni"
     url: /alumni/
+docs:
+  - title: "Point clouds"
+    children:
+      - title: "Attribute compression"
+        url: /point-clouds-attribute-compression/
+      - title: "Geometry compression"
+        url: /point-clouds-geometry-compression/
+      - title: "Motion estimation"
+        url: /point-clouds-motion-estimation/
+      - title: "Region-of-interest/saliency"
+        url: /point-clouds-roi-saliency/
+      - title: "Super-resolution"
+        url: /point-clouds-super-resolution/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
