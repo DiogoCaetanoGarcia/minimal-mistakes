@@ -8,11 +8,6 @@ classes: wide
 permalink: /miscellaneous-face-spoofing-detection/
 ---
 
-
-Point cloud data is generally represented by a list of voxels, each being described by its geometry (location in space) and attributes (RGB or YUV color spaces, luminance etc.). The Group has developed several attribute compression technologies:
-
-## Region-Adaptive Hierarchical Transform
-
 <p style="text-align:center;">
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/face_spoofing.png"><br>
   <i> Moiré patterns due to the overlapping of digital grids. (a) Portion of the Lena test image. (b) Photograph of (a) on a 13-inch Macbook Pro screen and shot by an iPhone 4 camera without any compression artifacts. (c)-(d) Details of (a)-(b), respectively. (e)-(f) Absolute values of the discrete Fourier transforms of (a)-(b).</i><br>
