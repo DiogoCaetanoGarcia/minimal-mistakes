@@ -9,9 +9,11 @@ permalink: /point-clouds/
 
 
 <p style="text-align:center;">
-  ![alt text]("https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/thai-rotate_small.gif")
-  
-  _Plenoptic point cloud_
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/thai-rotate_small.gif"><br>
+  <i>Plenoptic point cloud</i><br>
+  <!-- ![alt text]("https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/thai-rotate_small.gif")
+
+  _Plenoptic point cloud_ -->
 </p>
 
 Point clouds are 3D representations of real-world objects, people and scenes, which can be conveyed in real time to remote locations, enabling free-viewpoint viewing and rich collaboration as if all parties were co-located. The Group has developed [compression technology](http://queiroz.divp.org/papers/ieee_tip_raht3d.pdf) that is currently adopted by MPEG’s [Geometry-based Point Cloud Compression (G-PCC) standard](https://ieeexplore.ieee.org/document/8571288). Other research topics include:

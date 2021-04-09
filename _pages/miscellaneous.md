@@ -9,9 +9,11 @@ permalink: /miscellaneous/
 ---
 
 <p style="text-align:center;">
-  ![alt text](https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/peppers_jpeg.gif)
-  
-  _JPEG compression history estimation for color images_
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/shields_wedge.gif"><br>
+  <i>Geometric partition of blocks for motion estimation and compensation</i><br>
+  <!-- ![alt text](https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/peppers_jpeg.gif)
+
+  _JPEG compression history estimation for color images_ -->
 </p>
 
 Besides image and video compression, our Group has also developed a large array of image and video processing technologies, such as:

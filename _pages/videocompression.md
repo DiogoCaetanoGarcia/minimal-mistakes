@@ -8,9 +8,11 @@ permalink: /video-compression/
 ---
 
 <p style="text-align:center;">
-  ![alt text](https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/shields_wedge.gif)
-  
-  _Geometric partition of blocks for motion estimation and compensation_
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/shields_wedge.gif"><br>
+  <i>Geometric partition of blocks for motion estimation and compensation</i><br>
+  <!-- ![alt text](https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/shields_wedge.gif)
+
+  _Geometric partition of blocks for motion estimation and compensation_ -->
 </p>
 
 The Group started researching several aspects of image and video compression, such as:
