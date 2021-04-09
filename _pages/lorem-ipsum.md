@@ -1,6 +1,8 @@
 ---
 title: "Lorem Ipsum"
 author_profile: true
+sidebar:
+  nav: "projs"
 layout: home
 permalink: /lorem-ipsum/
 ---

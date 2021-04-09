@@ -2,6 +2,8 @@
 title: "Point clouds"
 author_profile: true
 layout: home
+sidebar:
+  nav: "projs"
 permalink: /point-clouds/
 ---
 

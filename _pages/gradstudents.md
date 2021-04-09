@@ -1,6 +1,8 @@
 ---
 title: "Graduate students"
 author_profile: true
+sidebar:
+  nav: "projs"
 layout: home
 permalink: /grad-students/
 ---

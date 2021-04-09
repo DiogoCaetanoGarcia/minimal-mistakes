@@ -1,6 +1,8 @@
 ---
 title: "Undergraduate students"
 author_profile: true
+sidebar:
+  nav: "projs"
 layout: home
 permalink: /undergrad-students/
 ---

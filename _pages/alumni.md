@@ -1,6 +1,8 @@
 ---
 title: "Graduate alumni"
 author_profile: true
+sidebar:
+  nav: "projs"
 layout: home
 permalink: /alumni/
 ---
