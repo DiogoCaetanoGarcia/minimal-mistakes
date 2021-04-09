@@ -9,16 +9,15 @@ permalink: /miscellaneous-face-spoofing-detection/
 ---
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/face_spoofing.png"><br>
-  <i> Moiré patterns due to the overlapping of digital grids. (a) Portion of the Lena test image. (b) Photograph of (a) on a 13-inch Macbook Pro screen and shot by an iPhone 4 camera without any compression artifacts. (c)-(d) Details of (a)-(b), respectively. (e)-(f) Absolute values of the discrete Fourier transforms of (a)-(b).</i><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/image_recapture.png"><br>
+  <i>Image recapture: a screened image is captured by an imaging system from a distance.</i><br>
 </p>
 
 Biometric systems based on face recognition have been shown unreliable under the presence of face-spoofing images. Hence, automatic solutions for spoofing detection became necessary. The Group proposed face-spoofing detection by searching for Moiré patterns due to the overlap of the digital grids, and developed an image database of facial shots under several conditions.
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/image_recapture.png"><br>
-  <i>Image recapture: a screened image is captured by an imaging system
-from a distance.</i><br><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/face_spoofing.png"><br>
+  <i> Moiré patterns due to the overlapping of digital grids. (a) Portion of the Lena test image. (b) Photograph of (a) on a 13-inch Macbook Pro screen and shot by an iPhone 4 camera without any compression artifacts. (c)-(d) Details of (a)-(b), respectively. (e)-(f) Absolute values of the discrete Fourier transforms of (a)-(b).</i><br><br>
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/moire_database.png"><br>
   <i>Samples of the Moiré database.</i><br>
 </p>
