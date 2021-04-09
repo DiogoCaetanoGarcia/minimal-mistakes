@@ -18,7 +18,7 @@ Biometric systems based on face recognition have been shown unreliable under the
 <p style="text-align:center;">
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/image_recapture.png"><br>
   <i>Image recapture: a screened image is captured by an imaging system
-from a distance.</i><br>
+from a distance.</i><br><br>
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/moire_database.png"><br>
   <i>Samples of the Moiré database.</i><br>
 </p>
@@ -31,4 +31,4 @@ from a distance.</i><br>
 
 ### Database
 
-* Repository containing a face-spoofing database with images of 50 individuals captured under 13 different conditions: [link](https://gitlab.com/diogogarcia/Moire_database)
+* [Repository](https://gitlab.com/diogogarcia/Moire_database) containing a face-spoofing database with images of 50 individuals captured under 13 different conditions.
