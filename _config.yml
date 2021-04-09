@@ -278,6 +278,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
+      sidebar:
+        nav: "projs"
       share: true
       related: true
 #   # _docs
@@ -285,5 +287,5 @@ defaults:
 #       path: ""
 #       type: docs
 #     values:
-      sidebar:
-        nav: "docs"
+#       sidebar:
+#         nav: "projs"
