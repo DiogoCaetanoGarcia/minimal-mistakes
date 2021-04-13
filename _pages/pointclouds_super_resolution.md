@@ -8,11 +8,14 @@ classes: wide
 permalink: /point-clouds-super-resolution/
 ---
 
-The Group proposed a mixed-resolution point-cloud representation and a super-resolution framework, from which several processing tools can be derived, such as compression, denoising and error concealment. The proposed super-resolution methods work by inferring the high-frequency content of low-resolution frames based on (a) the similarities between adjacent full-resolution frames and (b) a dictionary of low- and high-frequency pairs built from adjacent full-resolution frames.
-
 <p style="text-align:center;">
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/pointcloud_superresolution.png"><br>
   <i>Super-resolution framework (SR) that outputs a superresolved frame by exploring the high-frequency content similarities between a down-sampled point-cloud and a time-adjacent frame.</i><br>
+</p>
+
+The Group proposed a mixed-resolution point-cloud representation and a super-resolution framework, from which several processing tools can be derived, such as compression, denoising and error concealment. The proposed super-resolution methods work by inferring the high-frequency content of low-resolution frames based on (a) the similarities between adjacent full-resolution frames and (b) a dictionary of low- and high-frequency pairs built from adjacent full-resolution frames.
+
+<p style="text-align:center;">
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/pointcloud_superresolution_example_based.png"><br>
   <i>Full example of the super-resolution of one pixel in 2D, based on the similarities between adjacent full-resolution frames.</i><br>
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/pointcloud_superresolution_lut.png"><br>
