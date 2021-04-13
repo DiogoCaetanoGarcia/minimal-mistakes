@@ -28,6 +28,22 @@ Point cloud data is generally represented by a list of voxels, each being descri
 * D. R. Freitas, E. Peixoto, R. L. de Queiroz e E. Medeiros, "[Estudo de perdas para codificação de geometria de nuvens de pontos por decomposição diádica](http://queiroz.divp.org/papers/SBrT_2020_LossyGeomCoder.pdf)," Anais XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, SBrT 2020, Florianópolis, Brazil, Nov. 2020.
 * R. Rosário and E. Peixoto, "[Intra-Frame Compression of Point Cloud Geometry using Boolean Decomposition](https://ieeexplore.ieee.org/document/8965783)," 2019 IEEE Visual Communications and Image Processing (VCIP), Sydney, NSW, Australia, 2019, pp. 1-4.
 
+## Octree decomposition
+
+<p style="text-align:center;">
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/octree.gif"><br>
+  <i>Point-cloud representation using octrees: two levels of the subdivision of 3D space into octants and its binary tree representation. Dark-grey octants indicate the presence of points in further levels of the octree.</i><br>
+</p>
+
+The Group has developed several techniques for compressing point-cloud geometry data based on the octree representation, using super-resolution techniques,  distance-based probability modelling and context-based entropy coding.
+
+### Publications
+
+* D. C. Garcia, T. A. Fonseca, R. U. Ferreira and R. L. de Queiroz, "[Geometry coding for dynamic voxelized point clouds using octrees and multiple contexts](http://queiroz.divp.org/papers/ieee_tip_lossless_octree.pdf)," IEEE Trans. on Image Processing, Vol. 29, No. 1, pp.313-322, Jan. 2020.
+* R. L. de Queiroz, D. C. Garcia, P. A. Chou, and D. A. Florencio " [Distance-based probability model for octree coding](http://queiroz.divp.org/papers/ieee_spl_2018_octree.pdf)," IEEE Signal Processing Letters, Vol. 25, No. 6, pp. 739-742, June 2018.
+* D. C. Garcia, R. L. de Queiroz, "[Intra-frame context-based octree coding for point-cloud geometry](http://queiroz.divp.org/papers/icip2018_DiogoIntra.pdf)," Proc. IEEE Intl. Conf. Image Processing, ICIP, Athens, Greece, Oct. 2018.
+* D. C. Garcia and R. L. de Queiroz, "[Context-based octree coding for point-cloud video](http://queiroz.divp.org/papers/icip2017_octtree.pdf)," Proc. IEEE Intl. Conf. Image Processing, ICIP, Beijing, China, Sept. 2017.
+
 <!--## Compression of plenoptic attributes
 
 <p style="text-align:center;">
