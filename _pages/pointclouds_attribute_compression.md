@@ -54,7 +54,7 @@ In real-world objects, the reflected light may significantly change with the vie
 
 ### Submission to MPEG standards
 
-* R. L. de Queiroz, C. Dorea, D. C. Garcia, R. U. Ferreira, D. R. Freitas, R.Higa, I. Seidel and V. Testoni, "Differential plenoptic point cloud codingfor  V-PCC,"  in ISO/IEC  JTC1/SC29  Joint  WG11/WG7  (MPEG/JPEG)input document WG7M55145, Online, October 2020.
+* R. L. de Queiroz, C. Dorea, D. C. Garcia, R. U. Ferreira, D. R. Freitas, R.Higa, I. Seidel and V. Testoni, "Differential plenoptic point cloud codingfor  V-PCC,"  in ISO/IEC  JTC1/SC29  Joint  WG11/WG7  (MPEG/JPEG) input document WG7M55145, Online, October 2020.
 
 ### Ph.D. Thesis
 
