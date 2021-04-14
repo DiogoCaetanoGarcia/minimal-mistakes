@@ -10,7 +10,7 @@ permalink: /point-clouds-geometry-compression/
 
 Point cloud data is generally represented by a list of voxels, each being described by its geometry (location in space) and attributes (RGB or YUV color spaces, luminance etc.). The Group has developed several geometry compression technologies:
 
-## Dyadic composition
+## Dyadic decomposition
 
 <p style="text-align:center;">
   <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/dyadic_decomp.gif"><br>
