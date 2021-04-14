@@ -10,8 +10,10 @@ permalink: /point-clouds/
 
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/thai-rotate_small.gif"><br>
-  <i>Plenoptic point cloud</i><br>
+  <!-- <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/thai-rotate_small.gif"><br>
+  <i>Plenoptic point cloud.</i><br> -->
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/8i_vox10.gif"><br>
+  <i>Point cloud examples.</i><br>
   <!-- ![alt text]("https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/thai-rotate_small.gif")
 
   _Plenoptic point cloud_ -->
