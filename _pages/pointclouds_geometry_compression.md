@@ -31,7 +31,7 @@ Point cloud data is generally represented by a list of voxels, each being descri
 ## Octree decomposition
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/octree_cube_2.gif"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/octree_cube_2.gif" width="600"><br>
   <i>Point-cloud representation using octrees.</i><br>
   <!-- <i>Point-cloud representation using octrees: two levels of the subdivision of 3D space into octants and its binary tree representation. Dark-grey octants indicate the presence of points in further levels of the octree.</i><br> -->
 </p>
