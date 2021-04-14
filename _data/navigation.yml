@@ -53,8 +53,8 @@ projs:
         url: /video-compression-transcoding/
       - title: "Motion estimation and intra prediction"
         url: /video-compression-motion-estimation-and-intra-prediction/
-      - title: "Brazillian digital TV standard"
-        url: /video-compression-brazillian-digital-tv-standard/
+      - title: "Brazilian digital TV standard"
+        url: /video-compression-brazilian-digital-tv-standard/
   - title: "Image and video processing, analysis and synthesis"
     url: /miscellaneous/
     children:
