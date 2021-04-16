@@ -9,9 +9,9 @@ permalink: /miscellaneous-recolorization/
 ---
 
 <p style="text-align:center;">
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/recolorization01.png"><br>
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/recolorization02.png"><br>
-  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/recolorization03.png"><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/recolorization01.png"><br><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/recolorization02.png"><br><br>
+  <img src="https://github.com/DiogoCaetanoGarcia/minimal-mistakes/raw/master/assets/images/recolorization03.png"><br><br>
 </p>
 
 We introduced the concept of reversible conversion of color images to gray ones, wherein colors are mapped to textures and from the textures the receiver can recover the colors. This was done using the wavelet transform (or other subband transform) and replacing high-frequency subbands by the down-sampled chrominance planes. The idea is to print a color image with a black and white printer and, then, at a later time, to scan the document and recover colors. We developed simpler and more robust schemes, using the discrete wavelet transform and multiple subbands as well. 
