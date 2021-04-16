@@ -60,6 +60,8 @@ projs:
     children:
       - title: "JPEG detection"
         url: /miscellaneous-jpeg-detection/
+      - title: "Recolorization"
+        url: /miscellaneous-recolorization/
       - title: "Face spoofing detection"
         url: /miscellaneous-face-spoofing-detection/
       - title: "Heart-rate measurement"
