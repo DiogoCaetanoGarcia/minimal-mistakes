@@ -1,5 +1,5 @@
 ---
-title: "Recolorization"
+title: "JPEG detection"
 author_profile: true
 layout: single
 sidebar:
