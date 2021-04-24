@@ -26,3 +26,7 @@ The Group proposed a mixed-resolution point-cloud representation and a super-res
 ### Publications
 * D. C. Garcia, T. A. Fonseca, R. U. Ferreira and R. L. de Queiroz, "[Geometry coding for dynamic voxelized point clouds using octrees and multiple contexts](http://queiroz.divp.org/papers/ieee_tip_lossless_octree.pdf)," IEEE Trans. on Image Processing, Vol. 29, No. 1, pp.313-322, Jan. 2020.
 * D. C. Garcia, T. A. Fonseca, R. L. de Queiroz, "[Example-based super-resolution for point cloud video](http://queiroz.divp.org/papers/icip2018_tiagoSR.pdf)," Proc. IEEE Intl. Conf. Image Processing, ICIP, Athens, Greece, Oct. 2018.
+
+### M.Sc dissertation
+
+* T. M. Borges, [Fractional Super-Resolution of Voxelized Point Clouds](http://queiroz.divp.org/papers/dissertacao_tomas_borges_msc.pdf), Dissertação de Mestrado, Universidade de Brasília, 2021.

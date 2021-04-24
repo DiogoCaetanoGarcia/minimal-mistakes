@@ -45,8 +45,8 @@ projs:
         url: /video-compression-video-encoding-complexity-reduction/
       - title: "Wyner-Ziv coding"
         url: /video-compression-wyner-ziv-coding/
-      - title: "Super-resolution"
-        url: /video-compression-super-resolution/
+      - title: "Enhancement and super-resolution"
+        url: /video-compression-enhancement-super-resolution/
       - title: "Scanned document compression"
         url: /video-compression-scanned-document-compression/
       - title: "Transcoding"
