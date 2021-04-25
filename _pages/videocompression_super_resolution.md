@@ -40,4 +40,4 @@ The Group has gained vast experience on the topic of example-based enhancement o
 
 ### M.Sc dissertation
 
-F. Brandi, [Super-Resolução Utilizando Quadros-Chave em Sequências de Resolução Mista](http://queiroz.divp.org/papers/tese_fernanda_msc.pdf), (in Portuguese), Dissertação de Mestrado, Universidade de Brasília, 2009.
+* F. Brandi, [Super-Resolução Utilizando Quadros-Chave em Sequências de Resolução Mista](http://queiroz.divp.org/papers/tese_fernanda_msc.pdf), (in Portuguese), Dissertação de Mestrado, Universidade de Brasília, 2009.
